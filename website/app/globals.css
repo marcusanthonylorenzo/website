@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -11,3 +12,22 @@ body {
     --radius: 0.5rem;
   }
 }
+=======
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+>>>>>>> 3870e9e545b73d7d49443f849c4ddf10cb1b5693

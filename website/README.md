@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+=======
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+>>>>>>> 3870e9e545b73d7d49443f849c4ddf10cb1b5693
 
 ## Getting Started
 
@@ -33,6 +37,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+<<<<<<< HEAD
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
 
 
@@ -41,3 +46,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ### Spun up with:
 - Next.js and Laravel for accessibility but not necessarily for intentional SSR or PHP + JS/TS use
 - Shadcn
+=======
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+>>>>>>> 3870e9e545b73d7d49443f849c4ddf10cb1b5693
